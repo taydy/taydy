@@ -1,7 +1,7 @@
-[![Years Badge](https://badges.pufler.dev/years/taydy)]
-[![Visits Badge](https://badges.pufler.dev/visits/taydy/dynamodb-manager)]
-[![Repos Badge](https://badges.pufler.dev/repos/taydy)]
-[![Repos Badge](https://badges.pufler.dev/gists/taydy)]
+![Years Badge](https://badges.pufler.dev/years/taydy)
+![Visits Badge](https://badges.pufler.dev/visits/taydy/dynamodb-manager)
+![Repos Badge](https://badges.pufler.dev/repos/taydy)
+
 ### Hello World 👋
 
 <!--
