@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=taydy)
+- 🔭 I’m currently working on ByteDance
+- 
+![](https://github-readme-stats.vercel.app/api?username=taydy&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")
