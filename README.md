@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Years Badge](https://badges.pufler.dev/years/taydy)]
+[![Visits Badge](https://badges.pufler.dev/visits/taydy/dynamodb-manager)]
+[![Repos Badge](https://badges.pufler.dev/repos/taydy)]
+[![Repos Badge](https://badges.pufler.dev/gists/taydy)]
+### Hello World 👋
 
 <!--
 **taydy/taydy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ByteDance
-- 
-![](https://github-readme-stats.vercel.app/api?username=taydy&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")
+
+![](https://github-readme-stats.vercel.app/api?username=taydy&theme=gruvbox&show_icons=true")
